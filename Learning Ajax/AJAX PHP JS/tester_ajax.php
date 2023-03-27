@@ -57,5 +57,6 @@
 		}
 	};
 
+	console.log('Ada Perubahan')
 </script>
 </html>
