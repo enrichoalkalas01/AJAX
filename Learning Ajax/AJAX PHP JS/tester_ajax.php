@@ -55,6 +55,8 @@
 				document.getElementById('data').innerHTML = html;
 			}
 		}
+
+		console.log('from branch tester')
 	};
 </script>
 </html>
